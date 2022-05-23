@@ -1,0 +1,8 @@
+.messagetext {
+  display: flex;
+  flex-direction: column;
+}
+.embedfile {
+  overflow: hidden !important;
+  border-radius: 20px;
+}
